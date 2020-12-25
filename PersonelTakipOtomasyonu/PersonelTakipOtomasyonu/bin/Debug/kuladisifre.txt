@@ -1,0 +1,5 @@
+Kullanýcý Adý:admin:
+Þifre:admin:
+Geliþtirici Notu-> Sistemin Doðru Çalýþmasý Ýçin Bu Dosyayý Silmeyin!
+Geliþtirici Notu-> Ýkinokta'larýn Yerini Deðiþtirmeyin!
+Geliþtirici Notu-> Kullanýcý Adý Ve Þifreyi Okurken Ýkinokta'larý Görmezden Gelin!
